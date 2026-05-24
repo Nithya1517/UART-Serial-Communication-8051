@@ -25,4 +25,4 @@ The microcontroller sends messages serially to a Virtual Terminal using UART pro
 The message "HELLO FROM 8051" is displayed continuously in the Virtual Terminal.
 
 ## Author
-Nithya1517
+Nithya
